@@ -1,10 +1,10 @@
 # hackathon
 ini adalah projek hackathon
 
-##ide
+## ide
 aku ingin membuat bot discord yang menunjukan kerusakan yang disebabkan polusi
 
-##bahan
+## bahan
 VS code
 Discord libary
 API
